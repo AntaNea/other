@@ -1,0 +1,8 @@
+syntax="proto3";
+option csharp_namespace ="Second";
+message People{
+  uint32 id=1;
+  uint32  age =2;
+  string name =3;
+  bool isMan = 4;
+}

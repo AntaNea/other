@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFuMWr8r0D3Juu90Ne/U2tYJznk8ylGXuMZtbRRMdnVHlwvSxuv1ozYPqMLuSMQauC52WMiSsYRYrxw7sUXr8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasia\\RiderProjects\\two\\Second\\Second.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasia\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\protobuf-net\\3.1.17\\protobuf-net.3.1.17.nupkg.sha512",
+    "C:\\Users\\Anastasia\\.nuget\\packages\\protobuf-net.core\\3.1.17\\protobuf-net.core.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
